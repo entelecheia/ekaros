@@ -41,15 +41,7 @@ Ekaros offers an array of features that cater to artists, developers, and resear
 
 - **Pre-trained models**: The library includes a collection of pre-trained models for various artistic styles and domains, enabling users to leverage transfer learning and quickly generate AI art tailored to their preferences.
 
-- **Efficient training**: Ekaros utilizes advanced optimization techniques and parallel processing to ensure efficient and scalable training of generative models, even on large datasets and high-resolution images.
-
 - **Visualization and rendering tools**: Ekaros comes with a suite of tools for visualizing, rendering, and exporting AI-generated art in various formats, including static images, animations, and interactive installations.
-
-- **Interoperability**: The library is compatible with popular machine learning frameworks, such as TensorFlow and PyTorch, allowing seamless integration with existing AI pipelines and applications.
-
-- **Comprehensive documentation**: Ekaros offers extensive documentation, tutorials, and example projects that guide users through the process of creating generative AI art, from model development to final output.
-
-- **Vibrant community**: The library is supported by an active community of artists, developers, and researchers who contribute to its development, share their creations, and provide assistance to others.
 
 ## Installation
 
@@ -62,7 +54,6 @@ pip install ekaros
 ## Getting Started
 
 To begin your journey with Ekaros, visit the [official documentation][docs-url] and the [GitHub repository][repo-url] for examples, tutorials, and additional information.
-
 
 ## Changelog
 
