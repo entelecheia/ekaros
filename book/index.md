@@ -9,7 +9,7 @@
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
-[pypi-image]: https://badge.fury.io/py/ekaros.svg
+[pypi-image]: https://img.shields.io/pypi/v/ekaros
 [license-image]: https://img.shields.io/github/license/entelecheia/ekaros
 [license-url]: https://github.com/entelecheia/ekaros/blob/main/LICENSE
 [version-image]: https://img.shields.io/github/v/release/entelecheia/ekaros?sort=semver
