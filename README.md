@@ -1,4 +1,4 @@
-# HyFI-Template: A Template for HyFI-based Projects
+# Ekaros: A Python Library for Generative AI Art
 
 [![pypi-image]][pypi-url]
 [![license-image]][license-url]
@@ -8,88 +8,61 @@
 
 <!-- Links: -->
 
-[pypi-image]: https://badge.fury.io/py/hyfi-template.svg
-[license-image]: https://img.shields.io/github/license/entelecheia/hyfi-template
-[license-url]: https://github.com/entelecheia/hyfi-template/blob/main/LICENSE
-[version-image]: https://img.shields.io/github/v/release/entelecheia/hyfi-template?sort=semver
-[release-date-image]: https://img.shields.io/github/release-date/entelecheia/hyfi-template
-[release-url]: https://github.com/entelecheia/hyfi-template/releases
+[pypi-image]: https://badge.fury.io/py/ekaros.svg
+[license-image]: https://img.shields.io/github/license/entelecheia/ekaros
+[license-url]: https://github.com/entelecheia/ekaros/blob/main/LICENSE
+[version-image]: https://img.shields.io/github/v/release/entelecheia/ekaros?sort=semver
+[release-date-image]: https://img.shields.io/github/release-date/entelecheia/ekaros
+[release-url]: https://github.com/entelecheia/ekaros/releases
 [jupyter-book-image]: https://jupyterbook.org/en/stable/_images/badge.svg
-[repo-url]: https://github.com/entelecheia/hyfi-template
-[pypi-url]: https://pypi.org/project/hyfi-template
-[docs-url]: https://entelecheia.github.io/hyfi-template
-[changelog]: https://github.com/entelecheia/hyfi-template/blob/main/CHANGELOG.md
-[contributing guidelines]: https://github.com/entelecheia/hyfi-template/blob/main/CONTRIBUTING.md
+[repo-url]: https://github.com/entelecheia/ekaros
+[pypi-url]: https://pypi.org/project/ekaros
+[docs-url]: https://ekaros.entelecheia.ai
+[changelog]: https://github.com/entelecheia/ekaros/blob/main/CHANGELOG.md
+[contributing guidelines]: https://github.com/entelecheia/ekaros/blob/main/CONTRIBUTING.md
 
 <!-- Links: -->
 
-A GitHub Template Repository for HyFI-based Projects
+- Documentation: [https://ekaros.entelecheia.ai][docs-url]
+- GitHub: [https://github.com/entelecheia/ekaros][repo-url]
+- PyPI: [https://pypi.org/project/ekaros][pypi-url]
 
-- Documentation: [https://entelecheia.github.io/hyfi-template][docs-url]
-- GitHub: [https://github.com/entelecheia/hyfi-template][repo-url]
-- PyPI: [https://pypi.org/project/hyfi-template][pypi-url]
-
-HyFI-Template is a ready-to-use GitHub template repository designed to streamline the process of initializing new projects based on HyFI, a robust framework for building interfaces for Python applications. HyFI leverages the power of the Hydra configuration system and the Pydantic data validation library, offering a comprehensive set of tools to create flexible and adaptable interfaces for various Python projects.
+Ekaros is a creative and versatile Python library designed for crafting generative AI art, fostering the intersection of artificial intelligence and artistic expression. The name Ekaros is inspired by the Greek word Ἴκαρος (Icarus), symbolizing the limitless possibilities and aspirations in the realm of AI-driven creativity.
 
 ## Features
 
-HyFI-Template provides an ideal starting point for developers looking to build projects using the HyFI framework, with key features including:
+Ekaros offers an array of features that cater to artists, developers, and researchers interested in exploring the potential of AI in art:
 
-- **Pre-configured structure**: The template repository comes with a pre-defined project structure, ensuring a consistent and organized layout for HyFI-based applications.
+- **Intuitive API**: Ekaros provides an easy-to-use API that allows users to generate and manipulate artistic creations with just a few lines of code.
 
-- **Quick project initialization**: With the `make init-project` command, developers can easily initialize a new project, automatically setting up the necessary files, directories, and configurations.
+- **Diverse generative techniques**: The library supports a wide range of generative techniques, including Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and neural style transfer, enabling users to experiment with different artistic styles and approaches.
 
-- **Hydra integration**: The template repository is built around the Hydra configuration system, providing a flexible and powerful foundation for managing configurations in HyFI-based projects.
+- **Customizability**: Ekaros allows users to create custom generative models with full control over model architecture, training parameters, and artistic constraints, offering the flexibility to explore unique creative visions.
 
-- **Pydantic integration**: HyFI-Template incorporates the Pydantic data validation library, allowing developers to easily define and validate data structures for their application interfaces.
+- **Pre-trained models**: The library includes a collection of pre-trained models for various artistic styles and domains, enabling users to leverage transfer learning and quickly generate AI art tailored to their preferences.
 
-- **Best practices**: The template repository follows industry best practices for Python project organization and structure, ensuring that developers have a solid starting point for building high-quality applications.
+- **Efficient training**: Ekaros utilizes advanced optimization techniques and parallel processing to ensure efficient and scalable training of generative models, even on large datasets and high-resolution images.
 
-- **Customizable**: Developers can easily customize the template repository to suit their specific requirements and preferences, tailoring it to the needs of their projects.
+- **Visualization and rendering tools**: Ekaros comes with a suite of tools for visualizing, rendering, and exporting AI-generated art in various formats, including static images, animations, and interactive installations.
 
-- **Documentation**: The template repository includes clear instructions and guidelines for getting started with a HyFI-based project, helping developers quickly familiarize themselves with the framework and its features.
+- **Interoperability**: The library is compatible with popular machine learning frameworks, such as TensorFlow and PyTorch, allowing seamless integration with existing AI pipelines and applications.
+
+- **Comprehensive documentation**: Ekaros offers extensive documentation, tutorials, and example projects that guide users through the process of creating generative AI art, from model development to final output.
+
+- **Vibrant community**: The library is supported by an active community of artists, developers, and researchers who contribute to its development, share their creations, and provide assistance to others.
+
+## Installation
+
+You can install Ekaros using pip:
+
+```bash
+pip install ekaros
+```
 
 ## Getting Started
 
-To begin using HyFI-Template for your project, simply follow these steps:
+To begin your journey with Ekaros, visit the [official documentation][docs-url] and the [GitHub repository][repo-url] for examples, tutorials, and additional information.
 
-1. Click the "Use this template" button on the [HyFI-Template GitHub repository](https://github.com/hyfi/hyfi-template) to create a new repository based on the template.
-2. Clone the newly created repository to your local machine.
-3. Run `make init-project` to initialize the project with the necessary files and configurations.
-4. Follow the provided documentation and guidelines to start building your HyFI-based application.
-
-By using HyFI-Template as the foundation for your project, you'll be well on your way to creating powerful and adaptable interfaces for your Python applications.
-
-## Managing Actions Secrets and Variables in Your Project
-
-When using the HyFI-Template for your project, there are several GitHub Actions secrets and variables that you need to add to ensure proper functioning of the release action and optional JupyterBook deployment.
-
-### Adding PYPI_API_TOKEN and TEST_PYPI_API_TOKEN
-
-To automate the release process of your project to PyPI, you need to provide two tokens: `PYPI_API_TOKEN` and `TEST_PYPI_API_TOKEN`. These tokens will be used by the GitHub Actions workflow to authenticate with PyPI and TestPyPI, respectively.
-
-1. Generate an API token for your PyPI account by following the instructions in the [official PyPI documentation](https://pypi.org/manage/account/token/).
-2. Generate an API token for your TestPyPI account by following the instructions in the [official TestPyPI documentation](https://test.pypi.org/manage/account/token/).
-3. In your GitHub repository, go to the "Settings" tab and click on "Secrets" in the left sidebar.
-4. Click the "New repository secret" button.
-5. Add the `PYPI_API_TOKEN` secret with the value set to the token generated for your PyPI account.
-6. Add the `TEST_PYPI_API_TOKEN` secret with the value set to the token generated for your TestPyPI account.
-
-By providing these tokens, your project's release action will have the necessary permissions to publish your package to PyPI and TestPyPI.
-
-### Optionally Adding CNAME for JupyterBook Deployment
-
-If you plan to deploy the JupyterBook documentation to a custom domain, you'll need to add a `CNAME` variable to your GitHub repository.
-
-1. In your GitHub repository, go to the "Settings" tab and click on "Pages" in the left sidebar.
-2. Follow the instructions to configure your custom domain.
-3. In your GitHub repository, go to the "Settings" tab and click on "Repository Variables" in the left sidebar.
-4. Click the "New repository variable" button.
-5. Add a new variable with the key `CNAME` and set the value to your custom domain (e.g., `your-custom-domain.com`).
-
-By adding the `CNAME` variable, the GitHub Pages action in your `deploy-docs.yaml` workflow will properly configure the deployment to use your custom domain.
-
-With the `CNAME` repository variable properly configured, your project will be set up to handle JupyterBook deployment to your custom domain effectively.
 
 ## Changelog
 

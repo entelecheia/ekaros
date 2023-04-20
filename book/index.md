@@ -1,4 +1,4 @@
-# HyFI-Template
+# Ekaros
 
 [![pypi-image]][pypi-url]
 [![license-image]][license-url]
@@ -9,28 +9,28 @@
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
-[pypi-image]: https://badge.fury.io/py/hyfi-template.svg
-[license-image]: https://img.shields.io/github/license/entelecheia/hyfi-template
-[license-url]: https://github.com/entelecheia/hyfi-template/blob/main/LICENSE
-[version-image]: https://img.shields.io/github/v/release/entelecheia/hyfi-template?sort=semver
-[release-date-image]: https://img.shields.io/github/release-date/entelecheia/hyfi-template
-[release-url]: https://github.com/entelecheia/hyfi-template/releases
+[pypi-image]: https://badge.fury.io/py/ekaros.svg
+[license-image]: https://img.shields.io/github/license/entelecheia/ekaros
+[license-url]: https://github.com/entelecheia/ekaros/blob/main/LICENSE
+[version-image]: https://img.shields.io/github/v/release/entelecheia/ekaros?sort=semver
+[release-date-image]: https://img.shields.io/github/release-date/entelecheia/ekaros
+[release-url]: https://github.com/entelecheia/ekaros/releases
 [jupyter-book-image]: https://jupyterbook.org/en/stable/_images/badge.svg
 
-[repo-url]: https://github.com/entelecheia/hyfi-template
-[pypi-url]: https://pypi.org/project/hyfi-template
-[docs-url]: https://entelecheia.github.io/hyfi-template
-[changelog]: https://github.com/entelecheia/hyfi-template/blob/main/CHANGELOG.md
-[contributing guidelines]: https://github.com/entelecheia/hyfi-template/blob/main/CONTRIBUTING.md
+[repo-url]: https://github.com/entelecheia/ekaros
+[pypi-url]: https://pypi.org/project/ekaros
+[docs-url]: https://ekaros.entelecheia.ai
+[changelog]: https://github.com/entelecheia/ekaros/blob/main/CHANGELOG.md
+[contributing guidelines]: https://github.com/entelecheia/ekaros/blob/main/CONTRIBUTING.md
 <!-- Links: -->
 
-A GitHub Template Repository for HyFI-based Projects
+A Python Library for Generative AI Art
 
-- Documentation: [https://entelecheia.github.io/hyfi-template][docs-url]
-- GitHub: [https://github.com/entelecheia/hyfi-template][repo-url]
-- PyPI: [https://pypi.org/project/hyfi-template][pypi-url]
+- Documentation: [https://ekaros.entelecheia.ai][docs-url]
+- GitHub: [https://github.com/entelecheia/ekaros][repo-url]
+- PyPI: [https://pypi.org/project/ekaros][pypi-url]
 
-HyFI-Template is a ready-to-use GitHub template repository designed to streamline the process of initializing new projects based on HyFI, a robust framework for building interfaces for Python applications. HyFI leverages the power of the Hydra configuration system and the Pydantic data validation library, offering a comprehensive set of tools to create flexible and adaptable interfaces for various Python projects.
+Ekaros is a creative and versatile Python library designed for crafting generative AI art, fostering the intersection of artificial intelligence and artistic expression. The name Ekaros is inspired by the Greek word Ἴκαρος (Icarus), symbolizing the limitless possibilities and aspirations in the realm of AI-driven creativity.
 
 
 

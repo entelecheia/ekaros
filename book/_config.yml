@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title: "HyFI-Template" # The title of the book. Will be placed in the left navbar.
+title: "Ekaros" # The title of the book. Will be placed in the left navbar.
 author: "Young Joon Lee" # The author of the book
 copyright: "2023" # Copyright year to be placed in the footer
 # logo: logo.png # A path to the book logo
@@ -13,10 +13,7 @@ copyright: "2023" # Copyright year to be placed in the footer
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: cache
-  exclude_patterns:
-    - "*.ipynb"
-  allow_errors: true
+  execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -29,7 +26,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/entelecheia/hyfi-template # Online location of your book
+  url: https://github.com/entelecheia/ekaros # Online location of your book
   path_to_book: book # Optional path to your book, relative to the repository root
   branch: main # Which branch of the repository should be used when creating links (optional)
 

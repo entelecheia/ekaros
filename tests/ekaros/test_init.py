@@ -1,4 +1,4 @@
-from hyfi_template import get_version
+from ekaros import get_version
 
 
 def test_get_version() -> None:

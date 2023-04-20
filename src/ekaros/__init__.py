@@ -19,7 +19,7 @@ about.author = project_data.get("authors", ["Author name"])[0]
 about.description = project_data.get("description", "package description")
 about.homepage = project_data.get("homepage", "https://package.homepage")
 about.version = __version__
-global_config.hyfi_package_config_path = "pkg://hyfi_template.conf"
+global_config.hyfi_package_config_path = "pkg://ekaros.conf"
 
 
 def get_version() -> str:

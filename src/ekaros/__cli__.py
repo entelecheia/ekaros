@@ -1,4 +1,4 @@
-"""Command line interface for hyfi_template"""
+"""Command line interface for ekaros"""
 
 # Importing the libraries
 from hyfi import hydra_main
