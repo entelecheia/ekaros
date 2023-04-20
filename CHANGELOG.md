@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.2 (2023-04-20)
+### Fix
+* Remove template files ([`55cc58f`](https://github.com/entelecheia/ekaros/commit/55cc58f2cdcea96c5f752ad4e8880753611e06ce))
+
 ## v0.1.1 (2023-04-20)
 ### Fix
 * PYPI TOKENS ([`40f891b`](https://github.com/entelecheia/ekaros/commit/40f891b78001eb39d134587751b2a1ee3962c415))
