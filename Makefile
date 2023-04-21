@@ -196,17 +196,16 @@ install-dev: ## install the package in development mode
 initialize: install-precommit ## install pre-commit hooks
 	@pre-commit install
 
-remove-template: ## remove the template files (Warning: if you do this, you can't re-run init-project)
+remove-template: ## remove the template files (Warning: make sure you don't need them anymore!)
 	@rm -rf .copier-template
+	@rm -rf .copier.yaml
 
-init-project: install-copier install-precommit-hooks ## initialize the project (Warning: do this only once!)
-	@copier gh:entelecheia/hyperfast-python-template .
-	@copier gh:entelecheia/hyfi-template .
+init-project: install-copier install-precommit-hooks remove-template ## initialize the project (Warning: do this only once!)
+	@copier --data 'code_template_source=gh:entelecheia/hyfi-template' --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .
 
 init-git: ## initialize git
 	@git init
 
-reinit-project: install-copier ## reinitialize the project
-	@copier --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .
-	@copier --answers-file .copier-hyfi-config.yaml gh:entelecheia/hyfi-template .
+reinit-project: install-copier ## reinitialize the project (Warning: this may overwrite existing files!)
+	@copier --skip pyproject.toml --data 'code_template_source=gh:entelecheia/hyfi-template' --answers-file .copier-config.yaml gh:entelecheia/hyperfast-python-template .
 
