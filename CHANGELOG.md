@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.5 (2023-04-24)
+### Fix
+* Apply updated template ([`b3f4043`](https://github.com/entelecheia/ekaros/commit/b3f404325feb8f97d876f7f6dd5fea954bbc697b))
+
 ## v0.1.4 (2023-04-21)
 ### Fix
 * **dependencies:** Update homepage URL in project.toml file ([`6ba6f5b`](https://github.com/entelecheia/ekaros/commit/6ba6f5b3b1b7e5f9d420eefc389c3ee71f39b8d1))
