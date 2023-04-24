@@ -23,5 +23,5 @@ project_name: ekaros
 project_short_description: A Python Library for Generative AI Art
 upload_to_release: true
 upload_to_repository: true
-use_source_code_skeleton: true
+use_source_code_skeleton: false
 
