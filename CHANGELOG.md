@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.7 (2023-04-26)
+### Fix
+* Apply updated template ([`a51d36a`](https://github.com/entelecheia/ekaros/commit/a51d36ac0c707a93dd2828a5610f76098ecf6681))
+
 ## v0.1.6 (2023-04-24)
 ### Fix
 * Apply updated template ([`ddddb41`](https://github.com/entelecheia/ekaros/commit/ddddb41316df503330f528cd4eee08b43845d286))
