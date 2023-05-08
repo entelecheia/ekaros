@@ -1,0 +1,6 @@
+.copierignore
+.tasks-extra.toml
+CHANGELOG.md
+pyproject.toml
+src/ekaros/__cli__.py
+src/ekaros/__init__.py

@@ -1,3 +1,6 @@
+# hypothesis: https://github.com/HypothesisWorks/hypothesis
+.hypothesis/
+
 # Ignore node_modules directory
 node_modules/
 
@@ -24,4 +27,3 @@ coverage.xml
 *.cover
 htmlcov/
 pytest-coverage.*
-
