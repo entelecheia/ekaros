@@ -1,9 +1,9 @@
 # Ekaros
 
 [![pypi-image]][pypi-url]
-[![license-image]][license-url]
 [![version-image]][release-url]
 [![release-date-image]][release-url]
+[![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
@@ -32,8 +32,6 @@ A Python Library for Generative AI Art
 
 Ekaros is a creative and versatile Python library designed for crafting generative AI art, fostering the intersection of artificial intelligence and artistic expression. The name Ekaros is inspired by the Greek word Ἴκαρος (Icarus), symbolizing the limitless possibilities and aspirations in the realm of AI-driven creativity.
 
-
-
 ## Changelog
 
 See the [CHANGELOG] for more information.
@@ -45,7 +43,6 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
-
 
 ## Table of Contents
 
