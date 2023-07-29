@@ -8,7 +8,7 @@
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
-[codecov-image]: https://codecov.io/gh/entelecheia/ekaros/branch/main/graph/badge.svg?token=[REPLACE_ME]
+[codecov-image]: https://codecov.io/gh/entelecheia/ekaros/branch/main/graph/badge.svg?token=PTZWYZT2X9
 [codecov-url]: https://codecov.io/gh/entelecheia/ekaros
 [pypi-image]: https://img.shields.io/pypi/v/ekaros
 [license-image]: https://img.shields.io/github/license/entelecheia/ekaros
