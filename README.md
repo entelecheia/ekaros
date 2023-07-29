@@ -4,9 +4,12 @@
 [![version-image]][release-url]
 [![release-date-image]][release-url]
 [![license-image]][license-url]
+[![codecov][codecov-image]][codecov-url]
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
+[codecov-image]: https://codecov.io/gh/entelecheia/ekaros/branch/main/graph/badge.svg?token=[REPLACE_ME]
+[codecov-url]: https://codecov.io/gh/entelecheia/ekaros
 [pypi-image]: https://img.shields.io/pypi/v/ekaros
 [license-image]: https://img.shields.io/github/license/entelecheia/ekaros
 [license-url]: https://github.com/entelecheia/ekaros/blob/main/LICENSE
