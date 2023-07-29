@@ -5,10 +5,13 @@
 [![release-date-image]][release-url]
 [![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
+[![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
+[codecov-image]: https://codecov.io/gh/entelecheia/ekaros/branch/main/graph/badge.svg?token=PTZWYZT2X9
+[codecov-url]: https://codecov.io/gh/entelecheia/ekaros
 [pypi-image]: https://img.shields.io/pypi/v/ekaros
 [license-image]: https://img.shields.io/github/license/entelecheia/ekaros
 [license-url]: https://github.com/entelecheia/ekaros/blob/main/LICENSE
