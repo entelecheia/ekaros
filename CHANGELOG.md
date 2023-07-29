@@ -1,5 +1,12 @@
 <!--next-version-placeholder-->
 
+## v0.1.9 (2023-07-29)
+
+### Fix
+
+* **pyproject.toml:** Update black version constraint, remove redundant comment line ([`26e57de`](https://github.com/entelecheia/ekaros/commit/26e57de0fc214ad3f87436d268586249ac2fd2e2))
+* **pyproject.toml:** Upgrade hyfi version to 1.12.5 ([`31b464c`](https://github.com/entelecheia/ekaros/commit/31b464c70c26fb5f98b828f0a66b77ba6e6579ff))
+
 ## v0.1.8 (2023-05-08)
 ### Fix
 * Apply updated template ([`878e193`](https://github.com/entelecheia/ekaros/commit/878e193c85e9794f1ef55dd1fb6d868929b812e1))
