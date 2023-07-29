@@ -4,3 +4,6 @@ CHANGELOG.md
 pyproject.toml
 src/ekaros/__cli__.py
 src/ekaros/__init__.py
+src/ekaros/_version.py
+tests/ekaros/test_cli.py
+.gitignore
